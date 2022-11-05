@@ -1,0 +1,26 @@
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.exe.config
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.exe
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.pdb
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Window.ClientManagerWindow.resources
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Window.ServerWindow.resources
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.exe
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.pdb
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.exe.config
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.exe
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Bin\Server\Debug\Server.pdb
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Window.ClientManagerWindow.resources
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Window.ServerWindow.resources
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Networking.Server.Properties.Resources.resources
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.exe
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Server\obj\Debug\Server.pdb

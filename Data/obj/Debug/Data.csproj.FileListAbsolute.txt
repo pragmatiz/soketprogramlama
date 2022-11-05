@@ -1,0 +1,12 @@
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Bin\Data\Debug\ServerData.dll
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Bin\Data\Debug\ServerData.pdb
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\ServerData.dll
+C:\Users\Nurullah\Desktop\new programs\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\ServerData.pdb
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Bin\Data\Debug\ServerData.dll
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Bin\Data\Debug\ServerData.pdb
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\ServerData.dll
+C:\Users\Casper\Desktop\Simple-Multithreaded-TCP-GUI-Chat\Data\obj\Debug\ServerData.pdb
